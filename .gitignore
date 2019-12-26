@@ -1,4 +1,4 @@
-/target/
-/spark-warehouse/
-/.idea/
-/project/
+./target/
+./spark-warehouse/
+./.idea/
+./project/
